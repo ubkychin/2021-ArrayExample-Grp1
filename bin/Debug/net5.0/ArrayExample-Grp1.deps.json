@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ArrayExample-Grp1/1.0.0": {
+        "runtime": {
+          "ArrayExample-Grp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayExample-Grp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

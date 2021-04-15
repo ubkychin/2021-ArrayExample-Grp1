@@ -1,0 +1,16 @@
+C:\Users\anguyen\Projects\ArrayExample-Grp1\bin\Debug\net5.0\ArrayExample-Grp1.exe
+C:\Users\anguyen\Projects\ArrayExample-Grp1\bin\Debug\net5.0\ArrayExample-Grp1.deps.json
+C:\Users\anguyen\Projects\ArrayExample-Grp1\bin\Debug\net5.0\ArrayExample-Grp1.runtimeconfig.json
+C:\Users\anguyen\Projects\ArrayExample-Grp1\bin\Debug\net5.0\ArrayExample-Grp1.runtimeconfig.dev.json
+C:\Users\anguyen\Projects\ArrayExample-Grp1\bin\Debug\net5.0\ArrayExample-Grp1.dll
+C:\Users\anguyen\Projects\ArrayExample-Grp1\bin\Debug\net5.0\ref\ArrayExample-Grp1.dll
+C:\Users\anguyen\Projects\ArrayExample-Grp1\bin\Debug\net5.0\ArrayExample-Grp1.pdb
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.csprojAssemblyReference.cache
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.AssemblyInfoInputs.cache
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.AssemblyInfo.cs
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.csproj.CoreCompileInputs.cache
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.dll
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ref\ArrayExample-Grp1.dll
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.pdb
+C:\Users\anguyen\Projects\ArrayExample-Grp1\obj\Debug\net5.0\ArrayExample-Grp1.genruntimeconfig.cache
